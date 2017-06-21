@@ -15,3 +15,4 @@ A few notes
    5. If they overlay, a + is shown.
    6. If the dates are the same on the left, they are shown in blue.
    
+![Excell Gantt Screenshot](ExcelGantt.png)
